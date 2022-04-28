@@ -1,0 +1,101 @@
+body {
+
+    background: black;
+}
+
+.post {
+
+    background: white;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    
+
+
+}
+
+.post-body {
+
+    display: flex;
+
+
+    
+
+}
+
+.post-header {
+
+    padding: 1rem;
+    
+    display:flex;
+    
+
+}
+
+.menu1 {
+
+    margin-left: 16rem;
+    font-size: 2rem;
+}
+
+.logo1 {
+
+    font-size: 2rem;
+    
+}
+
+.letra1 {
+
+    padding-left: 0.5rem;
+    font-family: Roboto;
+}
+
+.sub {
+
+    padding-left: 0.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.post-footer1 {
+
+    font-size: 24px;
+    padding: 1rem;
+    display: flex;
+    align-content:flex-start;
+
+}
+
+.heart {
+
+    margin: 1rem;
+
+}
+
+.fa-comment {
+    margin-inline: 8px;
+
+   
+}  
+
+.fa-bookmark {
+
+    margin-inline: 250px;
+
+}
+
+
+.likes {
+
+    font-size: 14px;
+    margin-left: 1rem;
+
+}
+
+.content {
+
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
